@@ -15,7 +15,7 @@ connectDB();
 
 //custom middleware logger
 app.use(logger);
-app.use(cors(corsOptions));
+app.use(cors());
 //Builtin middleware
 app.use(express.urlencoded({ extended: false })); //Used to handel urlencoded data
 app.use(express.json()); //parses incoming requests with JSON payloads.
