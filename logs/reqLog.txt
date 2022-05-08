@@ -1,0 +1,11 @@
+20220507	14:18:28 	 cc3a5d78-5c26-45e6-98b6-0987b8dcf9c9 	 GET 	 undefined 	/
+20220507	19:22:53 	 65bf58af-800d-41bc-85b9-c736b51c31dd 	 GET 	 undefined 	/
+20220507	19:22:57 	 95c9681f-a1e5-4c0d-a2c2-1ae1d2533fcf 	 GET 	 undefined 	/
+20220507	19:23:08 	 34c8c90c-1287-48b0-8940-eaea8710d907 	 GET 	 undefined 	/states
+20220507	20:03:54 	 920bb729-cbca-423e-a1cd-fa82490772c5 	 GET 	 undefined 	/states
+20220507	20:03:58 	 19f26004-0c91-4f4f-af59-e0de41e2ae31 	 GET 	 undefined 	/
+20220507	20:04:13 	 a49741c9-4137-4409-90ca-4d3760da722e 	 GET 	 undefined 	/
+20220507	20:04:13 	 92f683f7-ff05-4d0e-8aeb-1f1941b1e45f 	 GET 	 undefined 	/css/style.css
+20220507	21:07:15 	 036f364a-584c-40f9-8acc-dc9f51cc02ef 	 GET 	 undefined 	/
+20220507	21:07:15 	 63d47d68-e704-4e4a-9785-268bcd80e7ed 	 GET 	 undefined 	/css/style.css
+20220507	21:07:15 	 16733206-6e71-4600-95b2-e762da13884c 	 GET 	 undefined 	/favicon.ico
